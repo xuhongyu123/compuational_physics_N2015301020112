@@ -1,7 +1,7 @@
 ## HOMEWORK LIST
 ------
-- [x] [Exercise_01:python语法练习](https://github.com/xuhongyu123/compuational_physics_N2015301020112/blob/master/untitled0.py)&[Picture](https://github.com/xuhongyu123/compuational_physics_N2015301020112/blob/master/%E6%8D%95%E8%8E%B7.PNG)    
-- [x] [Exercise_02:让名字动起来]&[video](https://github.com/xuhongyu123/computational_physics_2015301020112/blob/master/D__study_C_anaconda_python.exe%202017_9_21%202_10_03.mp4)
+- [x] [Exercise_01:python语法练习](https://github.com/xuhongyu123/compuational_physics_N2015301020112/blob/master/untitled0.py) & [Picture](https://github.com/xuhongyu123/compuational_physics_N2015301020112/blob/master/%E6%8D%95%E8%8E%B7.PNG)    
+- [x] [Exercise_02:让名字动起来](https://github.com/xuhongyu123/computational_physics_2015301020112/blob/master/%E5%8A%A8%E8%B5%B7%E6%9D%A5.py) & [video](https://github.com/xuhongyu123/computational_physics_2015301020112/blob/master/D__study_C_anaconda_python.exe%202017_9_21%202_10_03.mp4)
 - [ ] [Exercise_03:]
 - [ ] [Exercise_04:]
 - [ ] [Exercise_05:]
