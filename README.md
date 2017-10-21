@@ -4,7 +4,7 @@
 - [x] [Exercise_02:让名字动起来](https://github.com/xuhongyu123/computational_physics_2015301020112/blob/master/%E5%8A%A8%E8%B5%B7%E6%9D%A5.py) & [video](https://github.com/xuhongyu123/computational_physics_2015301020112/blob/master/D__study_C_anaconda_python.exe%202017_9_21%202_10_03.mp4)
 - [x] [Exercise_03:P16-1.2](http://note.youdao.com/noteshare?id=823336efb9dfd9d367a87a579f1893a1) 
 - [x] [Exercise_04:P31-2.9](http://note.youdao.com/noteshare?id=c2c024df1f38d88de84b97fc831889c5)
-- [ ] [Exercise_05:]()
+- [x] [Exercise_05:P43-2.19](http://note.youdao.com/noteshare?id=58f5cf4885518aba05d4b4cc176199c5)
 - [ ] [Exercise_06:]()
 - [ ] [Exercise_07:]()
 - [ ] [Exercise_08:]()
