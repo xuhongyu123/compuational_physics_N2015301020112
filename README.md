@@ -6,7 +6,7 @@
 - [x] [Exercise_04:P31-2.9](http://note.youdao.com/noteshare?id=c2c024df1f38d88de84b97fc831889c5)
 - [x] [Exercise_05:P43-2.19](http://note.youdao.com/noteshare?id=58f5cf4885518aba05d4b4cc176199c5)
 - [x] [Exercise_07:P65-3.10，3.11](http://note.youdao.com/noteshare?id=99d80d036d13ff4b1b4513558cc75d04)
-- [ ] [Exercise_08:]()
+- [x] [Exercise_08:P70-3.18](http://note.youdao.com/noteshare?id=fcde64064d334ab5cd0da48442733ef4)
 - [ ] [Exercise_09:]()
 - [ ] [Exercise_10:]()
 - [ ] [Exercise_11:]()
