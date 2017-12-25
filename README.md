@@ -8,6 +8,7 @@
 - [x] [Exercise_07:P65-3.10，3.11](http://note.youdao.com/noteshare?id=99d80d036d13ff4b1b4513558cc75d04)
 - [x] [Exercise_08:P70-3.18](http://note.youdao.com/noteshare?id=fcde64064d334ab5cd0da48442733ef4)
 - [ ] [Exercise_09:]()
+- [x] [PyGame](https://github.com/xuhongyu123/computational_physics_2015301020112/blob/master/pygame.zip)
 - [ ] [Exercise_10:]()
 - [ ] [Exercise_11:]()
 - [ ] [Exercise_12:]()
