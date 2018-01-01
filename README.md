@@ -11,6 +11,6 @@
 - [x] [PyGame](https://github.com/xuhongyu123/computational_physics_2015301020112/blob/master/pygame.zip)
 - [x] [Exercise_09:P118-4.16](http://note.youdao.com/noteshare?id=bba185936a729e17c6a0afef00b63dd2)
 - [X] [Exercise_10:P143-5.3](http://note.youdao.com/noteshare?id=cfefc3c36597f25c361b3d02b8d70e01)
-- [ ] [Exercise_11:]()
-- [ ] [Exercise_12:]()
-- [ ] [Exercise_13:]()
+- [x] [Exercise_11:P164-6.6](http://note.youdao.com/noteshare?id=5a2700982c7b15a0f7e954d4b925a5a9)
+- [x] [Exercise_12:Final work]()
+
