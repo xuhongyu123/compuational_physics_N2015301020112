@@ -10,7 +10,7 @@
 - [x] [Exercise_08:P88-3.31](https://github.com/xuhongyu123/computational_physics_2015301020112/blob/master/taiqiu.png?raw=true)
 - [x] [PyGame](https://github.com/xuhongyu123/computational_physics_2015301020112/blob/master/pygame.zip)
 - [x] [Exercise_09:P118-4.16](http://note.youdao.com/noteshare?id=bba185936a729e17c6a0afef00b63dd2)
-- [ ] [Exercise_10:]()
+- [X] [Exercise_10:P143-5.3](http://note.youdao.com/noteshare?id=cfefc3c36597f25c361b3d02b8d70e01)
 - [ ] [Exercise_11:]()
 - [ ] [Exercise_12:]()
 - [ ] [Exercise_13:]()
